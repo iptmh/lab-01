@@ -110,3 +110,38 @@ body {
         line-height: 150px;
     }
 }
+@media all and (min-width: 600px) and (max-height: 800px){
+    #a {
+        height: 100px;
+        text-align: center;
+        line-height: 100px;
+    }
+
+    #b {
+        width: 20.83%;
+        height: 600px;
+        text-align: center;
+        line-height: 600px;
+    }
+
+    #c, #d {
+        width: 50%;
+        height: 200px;
+        text-align: center;
+        line-height: 200px;
+    }
+    #sub-container{
+        width: 79.16%;
+    }
+    #e, #f, #g, #h {
+        width: 25%;
+        text-align: center;
+        line-height: 250px;
+    }
+
+    #i {
+        height: 150px;
+        text-align: center;
+        line-height: 150px;
+    }
+}

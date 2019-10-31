@@ -27,3 +27,32 @@
         background-color:peru;
     } 
 }
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    #a { 
+        background-color:greenyellow;
+    }    
+    #b { 
+        background-color: lightslategray;
+    } 
+    #c { 
+        background-color: skyblue;
+    } 
+    #d { 
+        background-color: darkmagenta;
+    } 
+    #e { 
+        background-color:darkslateblue;
+    } 
+    #f { 
+        background-color: pink;
+    } 
+    #g { 
+        background-color:lightsalmon;
+    } 
+    #h { 
+        background-color: lightsteelblue;
+    } 
+    #i { 
+        background-color: darkseagreen;
+    } 
+}
