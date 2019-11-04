@@ -1,0 +1,29 @@
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    #a { 
+        background-color: limegreen;
+    }    
+    #b { 
+        background-color: lightgoldenrodyellow;
+    } 
+    #c { 
+        background-color: lightseagreen;
+    } 
+    #d { 
+        background-color: lightsalmon;
+    } 
+    #e { 
+        background-color:rgb(71, 168, 128);
+    } 
+    #f { 
+        background-color: lightblue;
+    } 
+    #g { 
+        background-color: pink;
+    } 
+    #h { 
+        background-color:burlywood;
+    } 
+    #i { 
+        background-color:peru;
+    } 
+}
